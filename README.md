@@ -5,6 +5,11 @@ Preview of the new website for V4 Adesivos, a company that does fleet graphics, 
 
 [🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
 
+<p align="center">
+  <img src="docs/screenshot-desktop.jpg" alt="Página inicial / Home page — desktop" width="76%">
+  <img src="docs/screenshot-mobile.jpg" alt="Página inicial / Home page — mobile" width="20%">
+</p>
+
 ---
 
 ## 🇧🇷 Português
