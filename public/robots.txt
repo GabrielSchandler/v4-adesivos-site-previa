@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://v4-adesivos-comercial.gmarquessch.chatgpt.site/sitemap.xml
